@@ -5,13 +5,15 @@
   </a>
 </h1>
 
-<h2 align="right">I'm a passionate Full Stack developer in Progress</h2>
+<h2 align="left">I'm a passionate Full Stack developer in Progress</h2>
 
 </br>
 
 <div>
   - 🔭 I’m currently working on **Portfolio Webstie**
+  
   - 🌱 I’m currently learning **Python**
+    
   - ⚡ Fun fact: I love to cook, and I support environmental sustainability.
 
   
