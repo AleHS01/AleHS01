@@ -62,9 +62,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AleHS01/AleHS01/output/snake.svg" alt="Snake animation" />
-
-###
